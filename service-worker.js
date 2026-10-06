@@ -1,4 +1,4 @@
-/* Manifest version: BCSQQ9DY */
+/* Manifest version: 9129w7hf */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'slottracker-cache-';
@@ -11,6 +11,7 @@ self.addEventListener('activate', event => event.waitUntil(onActivate()));
 self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
 
 async function onInstall() {
+    await self.skipWaiting();
     const assetsRequests = self.assetsManifest.assets
         .filter(asset => offlineAssetsInclude.some(pattern => pattern.test(asset.url)))
         .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
@@ -28,7 +29,7 @@ async function onActivate() {
 async function onFetch(event) {
     if (event.request.method !== 'GET') return fetch(event.request);
     const isNavigation = event.request.mode === 'navigate';
-    const request = isNavigation ? 'index.html' : event.request;
+    const request = isNavigation ? new Request(new URL('index.html', self.registration.scope).href) : event.request;
     const cache = await caches.open(cacheName);
     const cachedResponse = await cache.match(request);
     return cachedResponse || fetch(event.request);

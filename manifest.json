@@ -1,12 +1,21 @@
 {
-  "name": "期待値・収支管理",
-  "short_name": "収支管理",
-  "start_url": "/slot-tracker.github.io/",
-  "display": "standalone",
-  "background_color": "#f4f6f8",
-  "theme_color": "#111827",
-  "icons": [
-    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
-  ]
+    "name":  "期待値・収支管理",
+    "short_name":  "収支管理",
+    "start_url":  "/slot-tracker.github.io/",
+    "display":  "standalone",
+    "background_color":  "#f4f6f8",
+    "theme_color":  "#111827",
+    "icons":  [
+                  {
+                      "src":  "icon-192.png",
+                      "type":  "image/png",
+                      "sizes":  "192x192"
+                  },
+                  {
+                      "src":  "icon-512.png",
+                      "type":  "image/png",
+                      "sizes":  "512x512"
+                  }
+              ],
+    "scope":  "/slot-tracker.github.io/"
 }

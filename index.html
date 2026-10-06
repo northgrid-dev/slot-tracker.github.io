@@ -39,6 +39,11 @@
     <script>
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });
+            navigator.serviceWorker.addEventListener('controllerchange', () => {
+                if (window.__slotTrackerSwReload) return;
+                window.__slotTrackerSwReload = true;
+                window.location.reload();
+            });
         }
     </script>
 </body>
