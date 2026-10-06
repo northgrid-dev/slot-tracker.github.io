@@ -1,6 +1,6 @@
-﻿{
-  "name": "譛溷ｾ・､繝ｻ蜿取髪邂｡逅・,
-  "short_name": "蜿取髪邂｡逅・,
+{
+  "name": "期待値・収支管理",
+  "short_name": "収支管理",
   "start_url": "/slot-tracker.github.io/",
   "display": "standalone",
   "background_color": "#f4f6f8",
@@ -10,4 +10,3 @@
     { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
   ]
 }
-

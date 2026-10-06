@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="utf-8" />
@@ -6,8 +6,8 @@
     <meta name="theme-color" content="#111827" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="apple-mobile-web-app-title" content="蜿取髪邂｡逅・ />
-    <title>譛溷ｾ・､繝ｻ蜿取髪邂｡逅・/title>
+    <meta name="apple-mobile-web-app-title" content="収支管理" />
+    <title>期待値・収支管理</title>
     <base href="/slot-tracker.github.io/" />
     <link rel="stylesheet" href="css/app.css" />
     <link href="manifest.json" rel="manifest" />
@@ -15,21 +15,22 @@
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
 </head>
 <body>
-    <div id="app"><div class="boot">襍ｷ蜍穂ｸｭ...</div></div>
-    <div id="blazor-error-ui">繧ｨ繝ｩ繝ｼ縺檎匱逕溘＠縺ｾ縺励◆縲・a href="." class="reload">蜀崎ｪｭ縺ｿ霎ｼ縺ｿ</a></div>
+    <div id="app"><div class="boot">起動中...</div></div>
+    <div id="blazor-error-ui">エラーが発生しました。<a href="." class="reload">再読み込み</a></div>
     <script>
-        // 襍ｷ蜍募､ｱ謨玲凾縺ｫ縲瑚ｵｷ蜍穂ｸｭ...縲阪・縺ｾ縺ｾ蝗ｺ縺ｾ繧峨↑縺・ｈ縺・∵怙菴朱剞縺ｮ險ｺ譁ｭ陦ｨ遉ｺ繧定｡後≧縲・        window.addEventListener('error', event => {
+        // 起動失敗時に「起動中...」のまま固まらないよう、最低限の診断表示を行う。
+        window.addEventListener('error', event => {
             const boot = document.querySelector('#app .boot');
-            if (boot) boot.textContent = '襍ｷ蜍輔お繝ｩ繝ｼ: ' + (event.message || 'JavaScript縺ｮ隱ｭ縺ｿ霎ｼ縺ｿ縺ｫ螟ｱ謨励＠縺ｾ縺励◆');
+            if (boot) boot.textContent = '起動エラー: ' + (event.message || 'JavaScriptの読み込みに失敗しました');
         });
         window.addEventListener('unhandledrejection', event => {
             const boot = document.querySelector('#app .boot');
-            if (boot) boot.textContent = '襍ｷ蜍輔お繝ｩ繝ｼ: ' + (event.reason?.message || event.reason || '蛻晄悄蛹悶↓螟ｱ謨励＠縺ｾ縺励◆');
+            if (boot) boot.textContent = '起動エラー: ' + (event.reason?.message || event.reason || '初期化に失敗しました');
         });
         setTimeout(() => {
             const boot = document.querySelector('#app .boot');
-            if (boot && boot.textContent.includes('襍ｷ蜍穂ｸｭ')) {
-                boot.innerHTML = '襍ｷ蜍輔↓譎る俣縺後°縺九▲縺ｦ縺・∪縺吶・br><button onclick="location.reload()">蜀崎ｪｭ縺ｿ霎ｼ縺ｿ</button>';
+            if (boot && boot.textContent.includes('起動中')) {
+                boot.innerHTML = '起動に時間がかかっています。<br><button onclick="location.reload()">再読み込み</button>';
             }
         }, 12000);
     </script>
@@ -42,4 +43,3 @@
     </script>
 </body>
 </html>
-
