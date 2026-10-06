@@ -1,0 +1,13 @@
+﻿{
+  "name": "譛溷ｾ・､繝ｻ蜿取髪邂｡逅・,
+  "short_name": "蜿取髪邂｡逅・,
+  "start_url": "/slot-tracker.github.io/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
+
