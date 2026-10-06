@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#111827" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="収支管理" />
+    <title>期待値・収支管理</title>
+    <base href="/slot-tracker.github.io/" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link href="manifest.json" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+</head>
+<body>
+    <div id="app"><div class="boot">起動中...</div></div>
+    <div id="blazor-error-ui">エラーが発生しました。<a href="." class="reload">再読み込み</a></div>
+    <script>
+        // 起動失敗時に「起動中...」のまま固まらないよう、最低限の診断表示を行う。
+        window.addEventListener('error', event => {
+            const boot = document.querySelector('#app .boot');
+            if (boot) boot.textContent = '起動エラー: ' + (event.message || 'JavaScriptの読み込みに失敗しました');
+        });
+        window.addEventListener('unhandledrejection', event => {
+            const boot = document.querySelector('#app .boot');
+            if (boot) boot.textContent = '起動エラー: ' + (event.reason?.message || event.reason || '初期化に失敗しました');
+        });
+        setTimeout(() => {
+            const boot = document.querySelector('#app .boot');
+            if (boot && boot.textContent.includes('起動中')) {
+                boot.innerHTML = '起動に時間がかかっています。<br><button onclick="location.reload()">再読み込み</button>';
+            }
+        }, 12000);
+    </script>
+    <script src="js/appDb.js"></script>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });
+        }
+    </script>
+</body>
+</html>
