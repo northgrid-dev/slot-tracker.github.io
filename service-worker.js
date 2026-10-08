@@ -1,9 +1,9 @@
-/* Manifest version: 9129w7hf */
+/* Manifest version: jVVwN8N0 */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'slottracker-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
-const offlineAssetsInclude = [/\.dll$/, /\.pdb$/, /\.wasm$/, /\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.png$/, /\.ico$/, /\.dat$/, /\.blat$/];
+const offlineAssetsInclude = [/\.dll$/, /\.wasm$/, /\.html$/, /\.js$/, /\.json$/, /\.css$/, /\.png$/, /\.ico$/, /\.dat$/, /\.blat$/];
 const offlineAssetsExclude = [/^service-worker\.js$/];
 
 self.addEventListener('install', event => event.waitUntil(onInstall()));

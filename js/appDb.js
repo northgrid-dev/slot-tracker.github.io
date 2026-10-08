@@ -1,9 +1,9 @@
 (() => {
     const DB_NAME = 'slottracker-db';
-    // v4 adds appMetadata. Upgrades are add-only; existing user stores are never deleted.
-    const DB_VERSION = 4;
-    const STORES = ['visits', 'plays', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata'];
-    const APP_VERSION = '1.7.0';
+    // v6 adds favorites. Upgrades are add-only; existing user stores are never deleted.
+    const DB_VERSION = 6;
+    const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata'];
+    const APP_VERSION = '1.9.0';
     let dbPromise;
 
     function openDb() {
@@ -85,12 +85,11 @@
     }
 
     window.addEventListener('error', event => {
-        writeJsLog('Error', 'JavaScript', event.message || 'JavaScript error',
-            `${event.filename || ''}:${event.lineno || 0}:${event.colno || 0}`);
+        writeJsLog('Error', 'JavaScript', event.message || 'JavaScript error', null);
     });
 
     window.addEventListener('unhandledrejection', event => {
-        const reason = event.reason instanceof Error ? `${event.reason.message}\n${event.reason.stack || ''}` : String(event.reason ?? '');
+        const reason = event.reason instanceof Error ? event.reason.name : null;
         writeJsLog('Error', 'JavaScriptPromise', '未処理のPromiseエラー', reason);
     });
 
@@ -153,6 +152,13 @@
             a.click();
             a.remove();
             setTimeout(() => URL.revokeObjectURL(url), 1000);
-        }
+        },
+        getCurrentPosition: () => new Promise((resolve, reject) => {
+            if (!navigator.geolocation) { resolve(null); return; }
+            navigator.geolocation.getCurrentPosition(
+                pos => resolve({ latitude: pos.coords.latitude, longitude: pos.coords.longitude, accuracy: pos.coords.accuracy }),
+                err => reject(new Error(err.message || '位置情報を取得できませんでした。')),
+                { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 });
+        })
     };
 })();

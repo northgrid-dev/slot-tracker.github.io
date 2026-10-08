@@ -3,241 +3,1082 @@
     "name": "ライブガーデン宇都宮桜店",
     "prefecture": "栃木県",
     "id": "shop-dc903ea5",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ライブガーデン宇都宮野沢店",
     "prefecture": "栃木県",
     "id": "shop-a55fc978",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライブガーデン鹿沼グランドシティ",
     "prefecture": "栃木県",
     "id": "shop-0118a9b5",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "１円の達人鹿沼店",
     "prefecture": "栃木県",
     "id": "shop-f5f08317",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.22,
+          "loanMedalsPer1000Yen": 450.45,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "コンサートホール今泉店",
     "prefecture": "栃木県",
     "id": "shop-4158d341",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ジャンジャンデルノザウルス今市店",
     "prefecture": "栃木県",
     "id": "shop-0f3c2222",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マックス・ヤナセ",
     "prefecture": "栃木県",
     "id": "shop-50c80981",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "麗都宇都宮テクノ店",
     "prefecture": "栃木県",
     "id": "shop-8787aafe",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "コンサートホール五代店",
     "prefecture": "栃木県",
     "id": "shop-70a7ee42",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ALIVE御幸店",
     "prefecture": "栃木県",
     "id": "shop-fd007726",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.17,
+          "exchangeMedalsPer1000Yen": 51.7,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.31,
+          "loanMedalsPer1000Yen": 188.32,
+          "exchangeMedalsPer100Yen": 20.68,
+          "exchangeMedalsPer1000Yen": 206.8,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "アイマックス",
     "prefecture": "栃木県",
     "id": "shop-8472cc60",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "パーラービート",
     "prefecture": "栃木県",
     "id": "shop-b55a2c34",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パーラーキング",
     "prefecture": "栃木県",
     "id": "shop-96d5a361",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "Happy　BOSS",
     "prefecture": "栃木県",
     "id": "shop-b30e83c7",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 10.0,
+          "loanMedalsPer1000Yen": 100.0,
+          "exchangeMedalsPer100Yen": 11.2,
+          "exchangeMedalsPer1000Yen": 112.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.2,
+          "exchangeMedalsPer1000Yen": 202.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　BOSS",
     "prefecture": "栃木県",
     "id": "shop-174af204",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.56,
+          "loanMedalsPer1000Yen": 179.86,
+          "exchangeMedalsPer100Yen": 19.78,
+          "exchangeMedalsPer1000Yen": 197.8,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "KING　BOSS　1000",
     "prefecture": "栃木県",
     "id": "shop-be410f0e",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 55.0,
+          "exchangeMedalsPer1000Yen": 550.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "メッセ",
     "prefecture": "栃木県",
     "id": "shop-f6d1a1d1",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 56.0,
+          "exchangeMedalsPer1000Yen": 560.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Wonder　BOSS",
     "prefecture": "栃木県",
     "id": "shop-98413772",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "イクサム　上三川店",
     "prefecture": "栃木県",
     "id": "shop-371d457d",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "アイランド日光店",
     "prefecture": "栃木県",
     "id": "shop-db217da7",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ココ・マックス",
     "prefecture": "栃木県",
     "id": "shop-ec0c3df9",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン鹿沼店",
     "prefecture": "栃木県",
     "id": "shop-faadd95f",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ALIVEテクノ店",
     "prefecture": "栃木県",
     "id": "shop-80af33b0",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "DELGRAND　下栗",
     "prefecture": "栃木県",
     "id": "shop-bb077f89",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "DELGRANDインターパーク店",
     "prefecture": "栃木県",
     "id": "shop-2c119b39",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 20.4,
+          "exchangeMedalsPer1000Yen": 204.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム栃木日光大沢店",
     "prefecture": "栃木県",
     "id": "shop-2938ce0a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ダイナム栃木今市店",
     "prefecture": "栃木県",
     "id": "shop-ae1fa0f9",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ALIVE海道店",
     "prefecture": "栃木県",
     "id": "shop-be6797a1",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.13,
+          "loanMedalsPer1000Yen": 469.48,
+          "exchangeMedalsPer100Yen": 51.6,
+          "exchangeMedalsPer1000Yen": 516.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ALIVE駒生店",
     "prefecture": "栃木県",
     "id": "shop-7ca2e290",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.17,
+          "exchangeMedalsPer1000Yen": 51.7,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "DELGRAND　上横田",
     "prefecture": "栃木県",
     "id": "shop-bebdab30",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム栃木鹿沼店",
     "prefecture": "栃木県",
     "id": "shop-11ccbf40",
-    "aliases": []
+    "aliases": [],
+    "active": false,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": "2026-09-23閉店。過去履歴参照用としてマスタには残す。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false,
+      "note": "2026-09-23閉店。過去履歴参照用としてマスタには残す。"
+    }
   },
   {
     "name": "有楽会館砥上店",
     "prefecture": "栃木県",
     "id": "shop-404b8a45",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "有楽会館今泉店",
     "prefecture": "栃木県",
     "id": "shop-895de0f6",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ドルフィン幕田店",
     "prefecture": "栃木県",
     "id": "shop-4649fadf",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 6.2,
+          "exchangeMedalsPer1000Yen": 62.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 25.0,
+          "exchangeMedalsPer1000Yen": 250.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "鹿沼ジャンボ",
     "prefecture": "栃木県",
     "id": "shop-16f4fda1",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ビックマーチ西川田店",
     "prefecture": "栃木県",
     "id": "shop-c7578ce2",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビックマーチ石橋店",
     "prefecture": "栃木県",
     "id": "shop-96f7c7ab",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.56,
+          "loanMedalsPer1000Yen": 179.86,
+          "exchangeMedalsPer100Yen": 19.8,
+          "exchangeMedalsPer1000Yen": 198.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビックマーチ宇都宮店",
     "prefecture": "栃木県",
     "id": "shop-c1ffd000",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ビックマーチ簗瀬店",
     "prefecture": "栃木県",
     "id": "shop-af0c0be9",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "公開情報では非等価表記のみで数値未確認のため、現時点では等価推定扱い。"
+    }
   },
   {
     "name": "スーパーライブガーデン野木店",
     "prefecture": "栃木県",
     "id": "shop-d920ea95",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "スーパーライブガーデン小山喜沢店",
@@ -245,49 +1086,251 @@
     "id": "shop-bd7880eb",
     "aliases": [
       "スーパーライブガーデン喜沢"
-    ]
+    ],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライブガーデン佐野店",
     "prefecture": "栃木県",
     "id": "shop-6d4b2d09",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.22,
+          "loanMedalsPer1000Yen": 450.45,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライブガーデン栃木本店",
     "prefecture": "栃木県",
     "id": "shop-59abd503",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライブガーデン佐野スロット店",
     "prefecture": "栃木県",
     "id": "shop-58898ae7",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライブガーデン小山粟宮スタンダード",
     "prefecture": "栃木県",
     "id": "shop-79ecda86",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "みんパチ表示で「21.73円→50.6枚」という異常値が見つかったため採用せず。交換率は等価推定扱い。"
+    }
   },
   {
     "name": "メルヘンワールド足利店",
     "prefecture": "栃木県",
     "id": "shop-5efbc49a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 9.9,
+          "exchangeMedalsPer1000Yen": 99.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 19.81,
+          "exchangeMedalsPer1000Yen": 198.1,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パチンコ徳川１",
     "prefecture": "栃木県",
     "id": "shop-267b3adf",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "スーパー１円劇場栃木店",
     "prefecture": "栃木県",
     "id": "shop-01889cb9",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン小山千駄塚店",
@@ -295,7 +1338,36 @@
     "id": "shop-c43c49a6",
     "aliases": [
       "マルハン小山"
-    ]
+    ],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.5,
+          "loanMedalsPer1000Yen": 181.82,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "麗都横倉店",
@@ -304,337 +1376,1421 @@
     "aliases": [
       "REITO横倉",
       "麗都横倉"
-    ]
+    ],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パチンコプラザ　ラ・カータ花ぞの店",
     "prefecture": "栃木県",
     "id": "shop-c2799307",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 6.0,
+          "exchangeMedalsPer1000Yen": 60.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイエー佐野店",
     "prefecture": "栃木県",
     "id": "shop-19b94466",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "アイランド足利店",
     "prefecture": "栃木県",
     "id": "shop-c75f6ec1",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ALIVE石橋店",
     "prefecture": "栃木県",
     "id": "shop-407217ef",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.17,
+          "exchangeMedalsPer1000Yen": 51.7,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.5,
+          "loanMedalsPer1000Yen": 181.82,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 55.0,
+          "exchangeMedalsPer1000Yen": 550.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パチンコプラザ　ラ・カータ足利店",
     "prefecture": "栃木県",
     "id": "shop-ecf85417",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "アイランド佐野店",
     "prefecture": "栃木県",
     "id": "shop-bc294b45",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "でるでる栃木店",
     "prefecture": "栃木県",
     "id": "shop-d3de4116",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ダイナム栃木佐野高萩店",
     "prefecture": "栃木県",
     "id": "shop-7a76b049",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 9.9,
+          "exchangeMedalsPer1000Yen": 99.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "PSブランド佐野店",
     "prefecture": "栃木県",
     "id": "shop-b36a73dc",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.31,
+          "loanMedalsPer1000Yen": 188.32,
+          "exchangeMedalsPer100Yen": 21.0,
+          "exchangeMedalsPer1000Yen": 210.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "BBステーション佐野田沼インター店",
     "prefecture": "栃木県",
     "id": "shop-df2ab521",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム足利店",
     "prefecture": "栃木県",
     "id": "shop-d2434805",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ダイナム栃木岩舟店",
     "prefecture": "栃木県",
     "id": "shop-98986dee",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 23.0,
+          "exchangeMedalsPer1000Yen": 230.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ニラク足利福居店",
     "prefecture": "栃木県",
     "id": "shop-a68f2f19",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パーラープレジャー",
     "prefecture": "栃木県",
     "id": "shop-d0ea864a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 55.0,
+          "exchangeMedalsPer1000Yen": 550.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ＭＧＭ小山本郷店",
     "prefecture": "栃木県",
     "id": "shop-115d8b55",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.22,
+          "loanMedalsPer1000Yen": 450.45,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビックマーチ佐野店",
     "prefecture": "栃木県",
     "id": "shop-53b48d85",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ペタマックス",
     "prefecture": "栃木県",
     "id": "shop-206b0116",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ビックマーチ栃木本店",
     "prefecture": "栃木県",
     "id": "shop-70624e27",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "リボン",
     "prefecture": "栃木県",
     "id": "shop-5c09069a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　fever　1",
     "prefecture": "栃木県",
     "id": "shop-5e22ee0d",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 19.81,
+          "exchangeMedalsPer1000Yen": 198.1,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Tender　BOSS",
     "prefecture": "栃木県",
     "id": "shop-e8c73ba5",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 2.22,
+          "loanMedalsPer1000Yen": 450.45,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ニラク大田原加治屋店",
     "prefecture": "栃木県",
     "id": "shop-50440a69",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "夢屋　西那須野店",
     "prefecture": "栃木県",
     "id": "shop-f41ac46b",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイエー氏家店",
     "prefecture": "栃木県",
     "id": "shop-783fcecb",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 19.81,
+          "exchangeMedalsPer1000Yen": 198.1,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン氏家店",
     "prefecture": "栃木県",
     "id": "shop-c17288aa",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン黒磯店",
     "prefecture": "栃木県",
     "id": "shop-e173822b",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "夢屋　黒磯店",
     "prefecture": "栃木県",
     "id": "shop-e99135d5",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ガイア那須塩原店",
     "prefecture": "栃木県",
     "id": "shop-4982d738",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ガイアらくらく館那須塩原店",
     "prefecture": "栃木県",
     "id": "shop-a2a3fac5",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "フィーバー黒磯",
     "prefecture": "栃木県",
     "id": "shop-cfacc563",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "マルハン那須塩原店",
     "prefecture": "栃木県",
     "id": "shop-6fcea43c",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム栃木黒磯店",
     "prefecture": "栃木県",
     "id": "shop-6a8a1a7c",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム西那須野店",
     "prefecture": "栃木県",
     "id": "shop-b5a23507",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.6,
+          "exchangeMedalsPer1000Yen": 56.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム栃木さくら店",
     "prefecture": "栃木県",
     "id": "shop-ddea991d",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "公開情報で非等価表記は確認できたが交換枚数の数値が確認できないため、現時点では等価推定扱い。"
+    }
   },
   {
     "name": "ダイナム栃木矢板店",
     "prefecture": "栃木県",
     "id": "shop-b800a4d1",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ダイナム栃木大田原店",
     "prefecture": "栃木県",
     "id": "shop-3de43fe6",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "有楽会館黒磯店",
     "prefecture": "栃木県",
     "id": "shop-e0ad9c32",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.5,
+          "exchangeMedalsPer1000Yen": 55.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "有楽会館西那須野店",
     "prefecture": "栃木県",
     "id": "shop-5df571b0",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "テラマックス",
     "prefecture": "栃木県",
     "id": "shop-4ac97455",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ギガマックス",
     "prefecture": "栃木県",
     "id": "shop-6ec33bcc",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "メガマックス",
     "prefecture": "栃木県",
     "id": "shop-2c838818",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ＺＡＰＰ西那須野",
     "prefecture": "栃木県",
     "id": "shop-9404567f",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 19.81,
+          "exchangeMedalsPer1000Yen": 198.1,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ZAPP黒磯",
     "prefecture": "栃木県",
     "id": "shop-e5d27571",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マックス",
     "prefecture": "栃木県",
     "id": "shop-2c1b627c",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム真岡店",
     "prefecture": "栃木県",
     "id": "shop-6e67aea0",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "BIG　BOSS　1000",
     "prefecture": "栃木県",
     "id": "shop-ac3d9415",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "ALIVE益子店",
     "prefecture": "栃木県",
     "id": "shop-32699954",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "つばめザ・ブーム",
     "prefecture": "栃木県",
     "id": "shop-8da678bd",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "DELGRAND　真岡",
     "prefecture": "栃木県",
     "id": "shop-4d9d79a7",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "南大門大金店",
     "prefecture": "栃木県",
     "id": "shop-6c69d13a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
+    }
   },
   {
     "name": "でるでる真岡店",
     "prefecture": "栃木県",
     "id": "shop-d687afd9",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "でるでる益子店",
     "prefecture": "栃木県",
     "id": "shop-f063c341",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "パーラーD＆D",
     "prefecture": "栃木県",
     "id": "shop-7c2ef39a",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビックマーチ真岡店",
     "prefecture": "栃木県",
     "id": "shop-61e85bdc",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        },
+        {
+          "loanYenPerMedal": 5.56,
+          "loanMedalsPer1000Yen": 179.86,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "モナコプラザ",
     "prefecture": "栃木県",
     "id": "shop-98b0c616",
-    "aliases": []
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 6.5,
+          "exchangeMedalsPer1000Yen": 65.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-08",
+          "estimated": false,
+          "note": null
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ミロックス泉店",
