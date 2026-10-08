@@ -3,7 +3,7 @@
     // v6 adds favorites. Upgrades are add-only; existing user stores are never deleted.
     const DB_VERSION = 6;
     const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata'];
-    const APP_VERSION = '1.9.0';
+    const APP_VERSION = '1.9.2';
     let dbPromise;
 
     function openDb() {
