@@ -1,9 +1,10 @@
 (() => {
     const DB_NAME = 'slottracker-db';
-    // v6 adds favorites. Upgrades are add-only; existing user stores are never deleted.
-    const DB_VERSION = 6;
-    const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata'];
-    const APP_VERSION = '1.9.2';
+    // v7 adds updateSnapshots. Upgrades are add-only; existing user stores are never deleted.
+    // IMPORTANT: never rename DB_NAME or delete/recreate stores during an app update.
+    const DB_VERSION = 7;
+    const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata', 'updateSnapshots'];
+    const APP_VERSION = '1.9.7';
     let dbPromise;
 
     function openDb() {

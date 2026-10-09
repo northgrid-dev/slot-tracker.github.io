@@ -12,7 +12,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県宇都宮市桜2-2-32",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン宇都宮野沢店",
@@ -47,7 +50,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市野沢町601番地5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン鹿沼グランドシティ",
@@ -72,7 +78,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県鹿沼市茂呂2491-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "１円の達人鹿沼店",
@@ -107,7 +116,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県鹿沼市茂呂字東久保1051-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "コンサートホール今泉店",
@@ -132,7 +144,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市中今泉1丁目7-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ジャンジャンデルノザウルス今市店",
@@ -157,7 +172,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県日光市芹沼宇鳥屋場1430",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マックス・ヤナセ",
@@ -182,7 +200,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市城東1丁目10番15号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "麗都宇都宮テクノ店",
@@ -207,7 +228,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市ゆいの杜１丁目２番４６号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "コンサートホール五代店",
@@ -232,7 +256,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市五代3-15-21",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVE御幸店",
@@ -267,7 +294,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市御幸本町4688番地38",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "アイマックス",
@@ -282,7 +312,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県宇都宮市下岡本町1469-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パーラービート",
@@ -307,7 +340,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市江野町1-11",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パーラーキング",
@@ -322,7 +358,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県宇都宮市大和2-12-56",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "Happy　BOSS",
@@ -357,7 +396,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市今泉3-61",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "Super　BOSS",
@@ -392,7 +434,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市竹林町685-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "KING　BOSS　1000",
@@ -437,7 +482,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市簗瀬町1865番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "メッセ",
@@ -472,7 +520,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市長岡町39-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "Wonder　BOSS",
@@ -497,7 +548,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市野沢町547-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "イクサム　上三川店",
@@ -532,7 +586,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県河内郡上三川町鞘堂2542番4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "アイランド日光店",
@@ -547,7 +604,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県日光市豊田字芳端33-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ココ・マックス",
@@ -572,7 +632,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市海道町95",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マルハン鹿沼店",
@@ -597,7 +660,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県鹿沼市茂呂923-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVEテクノ店",
@@ -622,7 +688,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市ゆいの杜8丁目1番57号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "DELGRAND　下栗",
@@ -647,7 +716,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市下栗町701-46",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "DELGRANDインターパーク店",
@@ -682,7 +754,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市砂田町483番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木日光大沢店",
@@ -697,7 +772,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県日光市木和田島字中野1568番地18",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木今市店",
@@ -712,7 +790,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県日光市芹沼字南沢1553番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVE海道店",
@@ -747,7 +828,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市海道町130",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVE駒生店",
@@ -772,7 +856,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市駒生町1544-13",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "DELGRAND　上横田",
@@ -807,7 +894,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市上横田町1302-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木鹿沼店",
@@ -833,7 +923,10 @@
       "userOverrideAllowed": true,
       "needsReview": false,
       "note": "2026-09-23閉店。過去履歴参照用としてマスタには残す。"
-    }
+    },
+    "address": "栃木県鹿沼市茂呂字東久保1170番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "有楽会館砥上店",
@@ -858,7 +951,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市砥上町1377",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "有楽会館今泉店",
@@ -893,7 +989,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市中今泉1-15-8",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ドルフィン幕田店",
@@ -928,7 +1027,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市幕田町377-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "鹿沼ジャンボ",
@@ -943,7 +1045,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県鹿沼市上殿町349-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ西川田店",
@@ -978,7 +1083,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県宇都宮市西川田南2丁目1-15",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ石橋店",
@@ -1013,7 +1121,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県河内郡上三川町大字鞘堂字西浦445番",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ宇都宮店",
@@ -1028,7 +1139,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県宇都宮市川田町1001番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ簗瀬店",
@@ -1043,7 +1157,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "公開情報では非等価表記のみで数値未確認のため、現時点では等価推定扱い。"
-    }
+    },
+    "address": "栃木県宇都宮市簗瀬町1973-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "スーパーライブガーデン野木店",
@@ -1078,7 +1195,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県下都賀郡野木町大字野木122番地6",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "スーパーライブガーデン小山喜沢店",
@@ -1115,7 +1235,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県小山市稲葉郷1341番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン佐野店",
@@ -1150,7 +1273,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市大橋町字大木下1398-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン栃木本店",
@@ -1185,7 +1311,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県栃木市大宮町字向原2177-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン佐野スロット店",
@@ -1220,7 +1349,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市免鳥町130番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ライブガーデン小山粟宮スタンダード",
@@ -1235,7 +1367,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "みんパチ表示で「21.73円→50.6枚」という異常値が見つかったため採用せず。交換率は等価推定扱い。"
-    }
+    },
+    "address": "栃木県小山市粟宮915-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "メルヘンワールド足利店",
@@ -1280,7 +1415,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県足利市借宿町619",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パチンコ徳川１",
@@ -1295,7 +1433,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県足利市掘込町97-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "スーパー１円劇場栃木店",
@@ -1330,7 +1471,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県栃木市城内町2丁目53-35",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マルハン小山千駄塚店",
@@ -1367,7 +1511,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県小山市大字千駄塚203-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "麗都横倉店",
@@ -1405,7 +1552,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県小山市大字横倉692",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パチンコプラザ　ラ・カータ花ぞの店",
@@ -1430,7 +1580,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県足利市花園町40-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイエー佐野店",
@@ -1455,7 +1608,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市高萩町1229番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "アイランド足利店",
@@ -1470,7 +1626,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県足利市田中町50-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVE石橋店",
@@ -1515,7 +1674,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県下野市下古山3326-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パチンコプラザ　ラ・カータ足利店",
@@ -1540,7 +1702,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県足利市朝倉町256番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "アイランド佐野店",
@@ -1565,7 +1730,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市伊勢山町974",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "でるでる栃木店",
@@ -1580,7 +1748,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県栃木市大宮町2079-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木佐野高萩店",
@@ -1605,7 +1776,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市高萩町675番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "PSブランド佐野店",
@@ -1640,7 +1814,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市大橋町3183-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "BBステーション佐野田沼インター店",
@@ -1675,7 +1852,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市田沼町671",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム足利店",
@@ -1690,7 +1870,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県足利市八幡町字油免620番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木岩舟店",
@@ -1725,7 +1908,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県栃木市岩舟町静戸字いすず467番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ニラク足利福居店",
@@ -1760,7 +1946,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県足利市福居町1612-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パーラープレジャー",
@@ -1795,7 +1984,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市吉水町1211",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ＭＧＭ小山本郷店",
@@ -1840,7 +2032,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県小山市本郷町3-2590-17",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ佐野店",
@@ -1875,7 +2070,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市田島町222番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ペタマックス",
@@ -1890,7 +2088,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県下野市柴264番1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ栃木本店",
@@ -1925,7 +2126,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県栃木市箱森町38-14",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "リボン",
@@ -1950,7 +2154,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県佐野市葛生西二丁目8番21号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "Super　fever　1",
@@ -1985,7 +2192,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市西富山61-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "Tender　BOSS",
@@ -2030,7 +2240,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県塩谷郡高根沢町大字宝積寺2248-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ニラク大田原加治屋店",
@@ -2055,7 +2268,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市一区町316番7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "夢屋　西那須野店",
@@ -2090,7 +2306,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市一区町104-18",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイエー氏家店",
@@ -2125,7 +2344,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県さくら市桜野字八幡383番",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マルハン氏家店",
@@ -2150,7 +2372,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県さくら市富野岡504",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マルハン黒磯店",
@@ -2175,7 +2400,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市豊浦10番地669",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "夢屋　黒磯店",
@@ -2200,7 +2428,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市上厚崎字山ノ前238-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ガイア那須塩原店",
@@ -2215,7 +2446,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須塩原市一区町105番地128",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ガイアらくらく館那須塩原店",
@@ -2230,7 +2464,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須塩原市一区町105-91",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "フィーバー黒磯",
@@ -2245,7 +2482,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須塩原市上厚崎502-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マルハン那須塩原店",
@@ -2270,7 +2510,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市下永田7-1092-20",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木黒磯店",
@@ -2295,7 +2538,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市埼玉字稲村5番地3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム西那須野店",
@@ -2320,7 +2566,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市南郷屋1丁目106番地116",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木さくら店",
@@ -2335,7 +2584,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "公開情報で非等価表記は確認できたが交換枚数の数値が確認できないため、現時点では等価推定扱い。"
-    }
+    },
+    "address": "栃木県さくら市馬場字宮越55番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木矢板店",
@@ -2350,7 +2602,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県矢板市矢板字鎗戸内159番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム栃木大田原店",
@@ -2385,7 +2640,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県大田原市中田原字明ノ前737番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "有楽会館黒磯店",
@@ -2410,7 +2668,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市鍋掛字鍋掛原1087-1136",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "有楽会館西那須野店",
@@ -2425,7 +2686,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須塩原市三区町619-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "テラマックス",
@@ -2440,7 +2704,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須塩原市緑1丁目8-436",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ギガマックス",
@@ -2455,7 +2722,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県矢板市富田字横塚315",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "メガマックス",
@@ -2470,7 +2740,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県大田原市富士見1丁目1778-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ＺＡＰＰ西那須野",
@@ -2505,7 +2778,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市一区町311-22",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ZAPP黒磯",
@@ -2530,7 +2806,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須塩原市豊浦南町83-77",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "マックス",
@@ -2555,7 +2834,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県大田原市中田原733-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ダイナム真岡店",
@@ -2580,7 +2862,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県真岡市長田一丁目21番地6",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "BIG　BOSS　1000",
@@ -2595,7 +2880,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県真岡市台町4146-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ALIVE益子店",
@@ -2610,7 +2898,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県芳賀郡益子町大字七井2525",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "つばめザ・ブーム",
@@ -2625,7 +2916,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県真岡市上大沼1丁目1番地3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "DELGRAND　真岡",
@@ -2640,7 +2934,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県真岡市荒町字長瀬5124",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "南大門大金店",
@@ -2655,7 +2952,10 @@
       "userOverrideAllowed": true,
       "needsReview": true,
       "note": "交換率不明。選択した貸出レートと同じ値を交換レートとして扱う。"
-    }
+    },
+    "address": "栃木県那須烏山市田野倉164-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "でるでる真岡店",
@@ -2680,7 +2980,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県真岡市寺内785番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "でるでる益子店",
@@ -2705,7 +3008,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県芳賀郡益子町大字七井2298番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "パーラーD＆D",
@@ -2730,7 +3036,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須烏山市城東191",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ビックマーチ真岡店",
@@ -2765,7 +3074,10 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県真岡市長田1-22-15",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "モナコプラザ",
@@ -2790,864 +3102,2996 @@
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
       "needsReview": false
-    }
+    },
+    "address": "栃木県那須郡那珂川町小川782",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09"
   },
   {
     "name": "ミロックス泉店",
     "prefecture": "秋田県",
     "id": "shop-05577ec5",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市泉北一丁目8-19",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "リボン茨島店",
     "prefecture": "秋田県",
     "id": "shop-763e8a87",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市茨島1丁目4-10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ガイア大曲店",
     "prefecture": "秋田県",
     "id": "shop-23881258",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市花館字中台117",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "大曲ひまわり",
     "prefecture": "秋田県",
     "id": "shop-f06079f4",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市東川字屋敷後183番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.3,
+          "exchangeMedalsPer1000Yen": 53.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 6.25,
+          "loanMedalsPer1000Yen": 160.0,
+          "exchangeMedalsPer100Yen": 18.0,
+          "exchangeMedalsPer1000Yen": 180.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ゴールドリボン",
     "prefecture": "秋田県",
     "id": "shop-100f1402",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市四ツ小屋字与左エ門川原371番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコ２２　大曲店",
     "prefecture": "秋田県",
     "id": "shop-112365a9",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市花館字上殿屋敷137-6",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.23,
+          "loanMedalsPer1000Yen": 89.05,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "土崎BC",
     "prefecture": "秋田県",
     "id": "shop-1086f61e",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市土崎港西3-11-13",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビィギャル外旭川店",
     "prefecture": "秋田県",
     "id": "shop-4399c11c",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市外旭川字待合3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ガイア割山店",
     "prefecture": "秋田県",
     "id": "shop-b48c8270",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市新屋豊町3-73",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニューヨークニューヨーク泉店",
     "prefecture": "秋田県",
     "id": "shop-3315ca0c",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市泉北3丁目3-25",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ニューヨークニューヨーク臨海店",
     "prefecture": "秋田県",
     "id": "shop-a74ed963",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市八橋南2丁目4-20",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ニューヨークニューヨーク広面店",
     "prefecture": "秋田県",
     "id": "shop-5a1888e6",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市手形字蛇野163",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン広面店",
     "prefecture": "秋田県",
     "id": "shop-3e5fdbc5",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市広面字谷地田16-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン茨島店",
     "prefecture": "秋田県",
     "id": "shop-7632c4ff",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市茨島1丁目4‐7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン外旭川店",
     "prefecture": "秋田県",
     "id": "shop-3789b26b",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市外旭川八柳３丁目１４番４４号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン追分店",
     "prefecture": "秋田県",
     "id": "shop-3e64d442",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市下新城中野字琵琶沼146-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "エスタディオ大曲",
     "prefecture": "秋田県",
     "id": "shop-4be5a248",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市東川字屋敷後176",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム秋田御所野店",
     "prefecture": "秋田県",
     "id": "shop-d819bafe",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市御所野下堤三丁目2番1号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "knownNonEquivalent": true,
+      "note": "公開情報では11.36円スロットが非等価。交換枚数の数値は未確認。 現仕様では未確認時の既定値として等価推定を使用するため、実利用前の修正を推奨。"
+    }
   },
   {
     "name": "ＭＱリゾート広面店",
     "prefecture": "秋田県",
     "id": "shop-59e90b8d",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市広面字板橋添311",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビイ・ギャル茨島店",
     "prefecture": "秋田県",
     "id": "shop-e864c1b0",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市茨島4丁目3番37号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビイギャル　ステーション",
     "prefecture": "秋田県",
     "id": "shop-38322d5a",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市中通7丁目3-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム中仙店",
     "prefecture": "秋田県",
     "id": "shop-3d664f74",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市下鶯野字上中嶋51番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "knownNonEquivalent": true,
+      "note": "公開情報では11.36円/5.68円スロットが非等価。交換枚数の数値は未確認。 現仕様では未確認時の既定値として等価推定を使用するため、実利用前の修正を推奨。"
+    }
   },
   {
     "name": "ダイナム秋田臨海店",
     "prefecture": "秋田県",
     "id": "shop-d55f5d52",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市寺内蛭根一丁目16番20号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "knownNonEquivalent": true,
+      "note": "公開情報では11.36円スロットが非等価。交換枚数の数値は未確認。 現仕様では未確認時の既定値として等価推定を使用するため、実利用前の修正を推奨。"
+    }
   },
   {
     "name": "ダイナム大曲店",
     "prefecture": "秋田県",
     "id": "shop-c4c1bc9c",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大仙市花館字西石田79",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.36,
+          "loanMedalsPer1000Yen": 88.03,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム秋田店",
     "prefecture": "秋田県",
     "id": "shop-8a4062db",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市飯島道東一丁目9-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ESPASO　秋田南店",
     "prefecture": "秋田県",
     "id": "shop-c59de245",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県秋田市仁井田本町5丁目1-11",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ライジング大館",
     "prefecture": "秋田県",
     "id": "shop-d3dff506",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市山館字羽立79",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン大館店",
     "prefecture": "秋田県",
     "id": "shop-b1d80c6e",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市餅田字前田44-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン能代店",
     "prefecture": "秋田県",
     "id": "shop-c71a5f0f",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市字昇平岱30番23",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビイギャル男鹿店",
     "prefecture": "秋田県",
     "id": "shop-f32687cc",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県男鹿市船越字内子251番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "トリニティ大館店",
     "prefecture": "秋田県",
     "id": "shop-135a8e38",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市字下綱350番",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "能代ひまわり",
     "prefecture": "秋田県",
     "id": "shop-763255bb",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市字寺向35番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        },
+        {
+          "loanYenPerMedal": 6.25,
+          "loanMedalsPer1000Yen": 160.0,
+          "exchangeMedalsPer100Yen": 18.0,
+          "exchangeMedalsPer1000Yen": 180.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビィ・ギャル能代店",
     "prefecture": "秋田県",
     "id": "shop-b1a0d1bf",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市通町9-41",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "夢工房２１鹿角店",
     "prefecture": "秋田県",
     "id": "shop-38555c52",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県鹿角市花輪字小深田227番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコ２1男鹿店",
     "prefecture": "秋田県",
     "id": "shop-adf06a62",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県男鹿市船越字内子294-92",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "有浦ミロクセンター",
     "prefecture": "秋田県",
     "id": "shop-a42f578f",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市字大田面339",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ミロックス花輪店",
     "prefecture": "秋田県",
     "id": "shop-bcef3832",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県鹿角市花輪字鉄砲2-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム五城目店",
     "prefecture": "秋田県",
     "id": "shop-665fb76d",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県南秋田郡五城目町大川西野字堤の内14番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム大館店",
     "prefecture": "秋田県",
     "id": "shop-9f3c0ba0",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市池内字中台53番",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム男鹿店",
     "prefecture": "秋田県",
     "id": "shop-a0cde24e",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県男鹿市船越字内子294番1260",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "メルヘンワールド秋田井川店",
     "prefecture": "秋田県",
     "id": "shop-90580e44",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県南秋田郡井川町北川尻字上村宅地9番地3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム能代店",
     "prefecture": "秋田県",
     "id": "shop-433b76d1",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市字下悪戸1-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム秋田たかのす店",
     "prefecture": "秋田県",
     "id": "shop-84216e3a",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県北秋田市栄字中綱44番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "chaos　大館店",
     "prefecture": "秋田県",
     "id": "shop-07b90f3a",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県大館市字観音堂197",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "chaos　鷹巣店",
     "prefecture": "秋田県",
     "id": "shop-ddd9253d",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県北秋田市綴子字前野32番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ＧＩＧＡ　ＷＡＶＥ　３０３",
     "prefecture": "秋田県",
     "id": "shop-2d7db502",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市二ッ井町狐台119-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ＴＨＥ　ＷＯＲＬＤ",
     "prefecture": "秋田県",
     "id": "shop-0d4f1af8",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県能代市落合字上前田145",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "三星センター毛馬内店",
     "prefecture": "秋田県",
     "id": "shop-3c940bbe",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県鹿角市十和田岡田字下モ谷地7番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニューホームラン",
     "prefecture": "秋田県",
     "id": "shop-391eedaf",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県北秋田市材木町6-33",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニュー三星センター",
     "prefecture": "秋田県",
     "id": "shop-5eba055b",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県鹿角市花輪字囲田56-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコすずらん　船川海岸通り店",
     "prefecture": "秋田県",
     "id": "shop-f82af2dc",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県男鹿市船川港海岸通り2-2-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ガイア横手",
     "prefecture": "秋田県",
     "id": "shop-87c7bfab",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市駅南3丁目5番29号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコ21本荘店",
     "prefecture": "秋田県",
     "id": "shop-371a9a0b",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県由利本荘市上大野63番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニューヨークニューヨーク湯沢店",
     "prefecture": "秋田県",
     "id": "shop-13c078fa",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県湯沢市倉内字川原田43-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコ２１　湯沢店",
     "prefecture": "秋田県",
     "id": "shop-4e884b4f",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県湯沢市鶴館8-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビィ・ギャル横手店",
     "prefecture": "秋田県",
     "id": "shop-6436d713",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市駅西三丁目１番４８号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン由利本荘店",
     "prefecture": "秋田県",
     "id": "shop-c7686a56",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県由利本荘市川口字川口下69番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニューヨークニューヨーク横手店",
     "prefecture": "秋田県",
     "id": "shop-e82de5cc",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市婦気大堤字谷地添130",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビイギャルにかほ店",
     "prefecture": "秋田県",
     "id": "shop-035bff02",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県にかほ市平沢字平森151-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビイ・ギャル本荘店",
     "prefecture": "秋田県",
     "id": "shop-0cc0fb7b",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県由利本荘市本田仲町101",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "スーパードーム由利本荘店",
     "prefecture": "秋田県",
     "id": "shop-0141a239",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県由利本荘市石脇字尾花沢13-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "メルヘンワールド横手店",
     "prefecture": "秋田県",
     "id": "shop-dfc8f196",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市安田字向田170番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチンコ２２十文字店",
     "prefecture": "秋田県",
     "id": "shop-dace372a",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市十文字町佐賀会字下沖田337番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム湯沢店",
     "prefecture": "秋田県",
     "id": "shop-96d27b63",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県湯沢市深堀字鎌切60",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム本荘店",
     "prefecture": "秋田県",
     "id": "shop-82273326",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県由利本荘市二十六木字久保田23番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム横手店",
     "prefecture": "秋田県",
     "id": "shop-1ba240a9",
-    "aliases": []
+    "aliases": [],
+    "address": "秋田県横手市婦気大堤字堤下224-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハンメガシティ前橋インター",
     "prefecture": "群馬県",
     "id": "shop-2f4313ee",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市元総社町693",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 18.4162,
+          "exchangeMedalsPer1000Yen": 184.16,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　Ｄ’stationガーデン前橋店",
     "prefecture": "群馬県",
     "id": "shop-e91847e8",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市小屋原町472-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン倉賀野店",
     "prefecture": "群馬県",
     "id": "shop-bd2281de",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市倉賀野町3113-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン前橋西片貝店",
     "prefecture": "群馬県",
     "id": "shop-ee592a28",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市西片貝町3丁目70-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 10.86,
+          "loanMedalsPer1000Yen": 92.08,
+          "exchangeMedalsPer100Yen": 9.2081,
+          "exchangeMedalsPer1000Yen": 92.08,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "スロットサンエイ",
     "prefecture": "群馬県",
     "id": "shop-222ae80d",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市上泉町685-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Super　D’station高崎本店",
     "prefecture": "群馬県",
     "id": "shop-5f6f62c2",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市並榎町44番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.2149,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　Ｄ’station金古店",
     "prefecture": "群馬県",
     "id": "shop-133dbabb",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市金古町90-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Ｄ’station前橋若宮店",
     "prefecture": "群馬県",
     "id": "shop-5df1a7da",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市北代田町567番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン前橋天川大島店",
     "prefecture": "群馬県",
     "id": "shop-67bf0937",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市天川大島町230-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 18.4162,
+          "exchangeMedalsPer1000Yen": 184.16,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　Ｄ’station前橋大利根店",
     "prefecture": "群馬県",
     "id": "shop-0b0d78ec",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市下新田町411-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.2149,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Super　Ｄ’station倉賀野店",
     "prefecture": "群馬県",
     "id": "shop-3e3616e5",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市倉賀野町2360-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.2149,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 2.5,
+          "loanMedalsPer1000Yen": 400.0,
+          "exchangeMedalsPer100Yen": 40.0,
+          "exchangeMedalsPer1000Yen": 400.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "トワーズ前橋高井店",
     "prefecture": "群馬県",
     "id": "shop-7471cbec",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市高井町1-33-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.0,
+          "exchangeMedalsPer1000Yen": 50.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "やすだ前橋店",
     "prefecture": "群馬県",
     "id": "shop-9d4cdca3",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市天川大島町255-13",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ビックつばめ高崎店",
     "prefecture": "群馬県",
     "id": "shop-c8bfed79",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市江木町310-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム群馬高崎箕郷店",
     "prefecture": "群馬県",
     "id": "shop-f2f7bf07",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市箕郷町上芝849番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム大胡店",
     "prefecture": "群馬県",
     "id": "shop-4c0213ed",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市樋越町767番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム吉井店",
     "prefecture": "群馬県",
     "id": "shop-a2ad8590",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市吉井町塩川字五反田440番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム群馬町店",
     "prefecture": "群馬県",
     "id": "shop-12f80254",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市菅谷町字村東20番地10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.62,
+          "loanMedalsPer1000Yen": 86.06,
+          "exchangeMedalsPer100Yen": 8.6059,
+          "exchangeMedalsPer1000Yen": 86.06,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "ダイナム前橋店",
     "prefecture": "群馬県",
     "id": "shop-c920c314",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市亀里町1301番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム多野新町店",
     "prefecture": "群馬県",
     "id": "shop-da364d6d",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市新町字中河原1443番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ライオンズ",
     "prefecture": "群馬県",
     "id": "shop-17b01a3f",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市矢中町518-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "スクェアー",
     "prefecture": "群馬県",
     "id": "shop-0b495073",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市下中居町111番地6",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "コスモス",
     "prefecture": "群馬県",
     "id": "shop-ba563b40",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市下大島町2-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パチーノアヤックス",
     "prefecture": "群馬県",
     "id": "shop-b4f12c74",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市富田町200-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "じゃらん６３４II",
     "prefecture": "群馬県",
     "id": "shop-6a23ef7e",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県前橋市日吉町4-19-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビックマーチ高崎おおやぎ店",
     "prefecture": "群馬県",
     "id": "shop-f6757b91",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県高崎市小八木町774",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station太田矢島店",
     "prefecture": "群馬県",
     "id": "shop-c14685b0",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市南矢島町930-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "マルハン太田新道町店",
     "prefecture": "群馬県",
     "id": "shop-0b6f489f",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市新道町1224-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 18.4162,
+          "exchangeMedalsPer1000Yen": 184.16,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "Ｄ’station館林店",
     "prefecture": "群馬県",
     "id": "shop-8cde1b24",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市諏訪町1455",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.2149,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン館林店",
     "prefecture": "群馬県",
     "id": "shop-72c23afd",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市東広内町1108-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Super　Ｄ’station太田店",
     "prefecture": "群馬県",
     "id": "shop-bff64a9a",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市植木野町272番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニラク大泉店",
     "prefecture": "群馬県",
     "id": "shop-156dc164",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県邑楽郡大泉町大字坂田1606番地10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73913043478261,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記＋P-WORLD貸出1000円/46枚"
+        },
+        {
+          "loanYenPerMedal": 5.555555555555555,
+          "loanMedalsPer1000Yen": 180.0,
+          "exchangeMedalsPer100Yen": 18.0,
+          "exchangeMedalsPer1000Yen": 180.0,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記＋P-WORLD貸出500円/90枚"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "JP-7館林店",
     "prefecture": "群馬県",
     "id": "shop-2c336524",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市東広内町2252番地の1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ＰＳブランド　太田店",
     "prefecture": "群馬県",
     "id": "shop-a8ecc4f1",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市東金井町707-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "あすか倶楽部ナビ",
     "prefecture": "群馬県",
     "id": "shop-3ff9e00a",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県邑楽郡邑楽町篠塚2588-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "アスカ太田店",
     "prefecture": "群馬県",
     "id": "shop-023f276d",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市下浜田町370-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム館林店",
     "prefecture": "群馬県",
     "id": "shop-0889e917",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市近藤町字大塚2番地の36",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "アスカ薮塚店",
     "prefecture": "群馬県",
     "id": "shop-8dbf24f3",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市大原町1070-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "アスカ大泉サンライズ",
     "prefecture": "群馬県",
     "id": "shop-441ec933",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県邑楽郡大泉町大字寄木戸1482-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ALIVE太田店",
     "prefecture": "群馬県",
     "id": "shop-165b5823",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市内ヶ島町716-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ドバット太田南店",
     "prefecture": "群馬県",
     "id": "shop-75970ccf",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市高林東町1594",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "駅前ＤＥＦ（デフ）",
     "prefecture": "群馬県",
     "id": "shop-6b4945f3",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市仲町2-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ハイパーマックス",
     "prefecture": "群馬県",
     "id": "shop-3fab9904",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県館林市羽附町1523-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "フレンド大泉店",
     "prefecture": "群馬県",
     "id": "shop-0bb9f845",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県邑楽郡大泉町吉田1419-10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "JP-7板倉店",
     "prefecture": "群馬県",
     "id": "shop-79aaf7fe",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県邑楽郡板倉町大字岩田2335-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "フレンド太田店",
     "prefecture": "群馬県",
     "id": "shop-4979f467",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県太田市大字上田島549",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Super　Ｄ’station大間々店",
     "prefecture": "群馬県",
     "id": "shop-e02b7004",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県みどり市大間々町大間々155番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.2149,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハンメガシティ伊勢崎",
     "prefecture": "群馬県",
     "id": "shop-900454ca",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市宮前町25",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station伊勢崎店",
     "prefecture": "群馬県",
     "id": "shop-1113c1cb",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市三室町5217番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6019,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン八斗島店",
     "prefecture": "群馬県",
     "id": "shop-aab3f811",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市八斗島町822-152",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 11.11,
+          "loanMedalsPer1000Yen": 90.01,
+          "exchangeMedalsPer100Yen": 9.0009,
+          "exchangeMedalsPer1000Yen": 90.01,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        },
+        {
+          "loanYenPerMedal": 2.22,
+          "loanMedalsPer1000Yen": 450.45,
+          "exchangeMedalsPer100Yen": 45.045,
+          "exchangeMedalsPer1000Yen": 450.45,
+          "source": "みんパチ",
+          "verifiedAt": "2026-10-09",
+          "estimated": false,
+          "note": "等価交換表記を確認"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": false
+    }
   },
   {
     "name": "マルハン大間々店",
     "prefecture": "群馬県",
     "id": "shop-3f67449f",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県みどり市大間々町大間々414-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム群馬伊勢崎宮子店",
     "prefecture": "群馬県",
     "id": "shop-10719edb",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市宮子町3501番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム群馬桐生店",
     "prefecture": "群馬県",
     "id": "shop-6b02076c",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県桐生市広沢町6丁目283番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム大間々店",
     "prefecture": "群馬県",
     "id": "shop-0bea80a1",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県みどり市大間々町大間々65番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビックマーチ伊勢崎店",
     "prefecture": "群馬県",
     "id": "shop-122a163a",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市三室町5330番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ＰＳブランド　伊勢崎店",
     "prefecture": "群馬県",
     "id": "shop-2312f0e2",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市韮塚町1201-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ドバット伊勢崎店",
     "prefecture": "群馬県",
     "id": "shop-7a24c19f",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市堀口町905番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "フィーバーII",
     "prefecture": "群馬県",
     "id": "shop-a1202531",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県桐生市巴町2-1-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "フィーバーみどり店",
     "prefecture": "群馬県",
     "id": "shop-94f03ad4",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県みどり市笠懸町阿左美1275-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビックマーチ桐生店",
     "prefecture": "群馬県",
     "id": "shop-0512ab38",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県みどり市笠懸町阿左美1492番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ビックマーチ八斗島店",
     "prefecture": "群馬県",
     "id": "shop-debd3a57",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県伊勢崎市八斗島町1628番1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "トーエイプラザ",
     "prefecture": "群馬県",
     "id": "shop-f37eeb4d",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県桐生市菱町3-2103",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "パーラーニューフレンド",
     "prefecture": "群馬県",
     "id": "shop-9c0acb4d",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県渋川市折原4178",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ＣＩＡＯ",
     "prefecture": "群馬県",
     "id": "shop-f3991b26",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県吾妻郡草津町大字草津637-74",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station中之条店",
     "prefecture": "群馬県",
     "id": "shop-7f4f2365",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県吾妻郡中之条町大字青山194番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station渋川インター店",
     "prefecture": "群馬県",
     "id": "shop-65278298",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県渋川市中村字中島601-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station沼田総本店",
     "prefecture": "群馬県",
     "id": "shop-39ccc0ae",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県沼田市岡谷町1477",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ニラク渋川白井店",
     "prefecture": "群馬県",
     "id": "shop-8eb7fd46",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県渋川市白井1099番地32",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "チャオ沼田店",
     "prefecture": "群馬県",
     "id": "shop-b579cd92",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県沼田市井土上町228-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム渋川店",
     "prefecture": "群馬県",
     "id": "shop-95e84b61",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県渋川市白井2138番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "メルヘンワールド富岡店",
     "prefecture": "群馬県",
     "id": "shop-bfddba4e",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県富岡市黒川779",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ザウス",
     "prefecture": "群馬県",
     "id": "shop-07c94478",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県富岡市田篠1600-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "トワーズ安中店",
     "prefecture": "群馬県",
     "id": "shop-9b55612f",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県安中市板鼻179番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station安中店",
     "prefecture": "群馬県",
     "id": "shop-83044497",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県安中市中宿1080",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "Ｄ’station富岡店",
     "prefecture": "群馬県",
     "id": "shop-d759050e",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県富岡市七日市347-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム群馬藤岡店",
     "prefecture": "群馬県",
     "id": "shop-ea45aad2",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県藤岡市中栗須420番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   },
   {
     "name": "ダイナム安中店",
     "prefecture": "群馬県",
     "id": "shop-1904afd0",
-    "aliases": []
+    "aliases": [],
+    "address": "群馬県安中市郷原字中村686番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-09",
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
+    }
   }
 ]
