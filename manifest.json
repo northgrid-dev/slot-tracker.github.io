@@ -1,6 +1,6 @@
 {
-    "name":  "期待値・収支管理",
-    "short_name":  "収支管理",
+    "name":  "SlotTracker 期待値・収支管理",
+    "short_name":  "SlotTracker",
     "start_url":  "/slot-tracker.github.io/",
     "display":  "standalone",
     "background_color":  "#f4f6f8",

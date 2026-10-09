@@ -1,4 +1,4 @@
-/* Manifest version: gXf17zj9 */
+/* Manifest version: 5skPKa6J */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'slottracker-cache-';
