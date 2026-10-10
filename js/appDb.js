@@ -143,6 +143,10 @@
 
     window.slotUi = {
         confirm: (message) => window.confirm(message),
+        scrollToDayDetail: () => document.getElementById('day-details')?.scrollIntoView({
+            behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+            block: 'start'
+        }),
         downloadText: (fileName, text, contentType = 'text/plain;charset=utf-8') => {
             const blob = new Blob([text], { type: contentType });
             const url = URL.createObjectURL(blob);
@@ -153,13 +157,6 @@
             a.click();
             a.remove();
             setTimeout(() => URL.revokeObjectURL(url), 1000);
-        },
-        getCurrentPosition: () => new Promise((resolve, reject) => {
-            if (!navigator.geolocation) { resolve(null); return; }
-            navigator.geolocation.getCurrentPosition(
-                pos => resolve({ latitude: pos.coords.latitude, longitude: pos.coords.longitude, accuracy: pos.coords.accuracy }),
-                err => reject(new Error(err.message || '位置情報を取得できませんでした。')),
-                { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 });
-        })
+        }
     };
 })();
