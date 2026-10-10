@@ -45,7 +45,8 @@ input[type="date"],input[type="datetime-local"],input[type="month"],input[type="
    Mobile: bottom navigation / one-column forms
    Desktop: left navigation / wider content
    ========================================================= */
-html,body,#app{width:100%;max-width:100%;min-height:100%;overflow-x:hidden}
+/* clipはスクロールコンテナを作らない。hiddenだとPCのホイール操作が止まる場合がある。 */
+html,body,#app{width:100%;max-width:100%;min-height:100%;overflow-x:clip}
 main,section,form,details,summary,.app-shell,.main-content{min-width:0}
 img,svg,canvas{max-width:100%}
 .row-between>*{min-width:0}
@@ -276,3 +277,36 @@ input[type="file"]{display:block;width:100%;max-width:100%;overflow:hidden}
 .day-detail-panel{scroll-margin-top:20px}
 
 .visit-extra{margin-top:10px}
+
+/* マウスでメニューやボタンを押した後のフォーカス枠は表示しない。 */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible){
+    outline:none;
+    box-shadow:none;
+}
+
+/* Tabキーで操作するときは位置が分かるよう、青色以外の枠を表示する。 */
+a:focus-visible,
+button:focus-visible{
+    outline:2px solid #64748b;
+    outline-offset:2px;
+}
+
+
+/* v1.9.11: navigation labels and headings are not text-selection targets.
+   Keep links clickable and focusable for keyboard navigation. */
+.bottom-nav,
+.bottom-nav a,
+.bottom-nav a span,
+.bottom-nav a small,
+.topbar .app-title,
+.topbar .app-subtitle,
+.page-title {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+/* Prevent the blue text-selection/tap flash on navigation labels. */
+.bottom-nav a {
+    -webkit-tap-highlight-color: transparent;
+}
