@@ -6324,7 +6324,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-tsuchiura/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.5,
+          "loanMedalsPer1000Yen": 181.82,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-tsuchiura/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6344,7 +6367,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/may%E3%80%80bach/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6424,7 +6459,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/g-hitachinaka/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6547,7 +6594,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%BC%E6%97%A5%E7%AB%8B%E5%BA%97/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6607,7 +6666,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/kicona-nakane/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6667,7 +6738,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/ibaraki-jupiter707/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -6907,7 +6990,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/alive-hitatinaka/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -7267,7 +7362,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%83%8B%E3%83%A9%E3%82%AF%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%BA%97/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -8225,7 +8332,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/alive-hitachiohta/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -8911,7 +9030,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/kawadahigashi/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -9094,7 +9225,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/bigmarch-keyaki/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22.0,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/bigmarch-keyaki/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -9197,7 +9351,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/mgm-hitachi/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -9987,7 +10153,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-k-fujisawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.61,
+          "loanMedalsPer1000Yen": 178.25,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-k-fujisawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -10107,7 +10296,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/rejoice/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -10390,7 +10591,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%82%AB%E3%83%8D%E3%83%9E%E3%83%B3%E9%87%91%E3%83%B6%E5%B4%8E/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -10410,7 +10623,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/daiichi-mizusawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -10510,7 +10735,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/cats-kitakami/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -11145,7 +11382,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/pia-k/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 6.25,
+          "loanMedalsPer1000Yen": 160.0,
+          "exchangeMedalsPer100Yen": 16.0,
+          "exchangeMedalsPer1000Yen": 160.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/pia-k/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -11265,7 +11525,41 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.0,
+          "exchangeMedalsPer1000Yen": 50.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -11385,7 +11679,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%82%84%E3%81%99%E3%81%A0%E6%89%80%E6%B2%A2%E5%BA%97/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 2.0,
+          "loanMedalsPer1000Yen": 500.0,
+          "exchangeMedalsPer100Yen": 50.0,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%82%84%E3%81%99%E3%81%A0%E6%89%80%E6%B2%A2%E5%BA%97/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -12082,7 +12399,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/derupara-kawaguchi/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -13134,7 +13463,41 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.0,
+          "exchangeMedalsPer1000Yen": 50.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 10.0,
+          "loanMedalsPer1000Yen": 100.0,
+          "exchangeMedalsPer100Yen": 10.0,
+          "exchangeMedalsPer1000Yen": 100.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -13297,7 +13660,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-tokorozawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.21,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/maruhan-tokorozawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -13517,7 +13903,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/mobius/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -13977,7 +14375,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/320-2/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 6.57,
+          "loanMedalsPer1000Yen": 152.21,
+          "exchangeMedalsPer100Yen": 15.22,
+          "exchangeMedalsPer1000Yen": 152.21,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/320-2/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -14157,7 +14578,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/wing-sankei/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/wing-sankei/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -14360,7 +14804,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/d-plaza-kasahata/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.0,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 20.0,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/d-plaza-kasahata/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -14440,7 +14907,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 20.0,
+          "loanMedalsPer1000Yen": 50.0,
+          "exchangeMedalsPer100Yen": 5.0,
+          "exchangeMedalsPer1000Yen": 50.0,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/%E3%83%88%E3%83%AF%E3%83%BC%E3%82%BA%E7%8B%AD%E5%B1%B1%E3%83%B6%E4%B8%98%E5%BA%97/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -14480,7 +14959,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/jaran-takesato/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 18.42,
+          "exchangeMedalsPer1000Yen": 184.16,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/jaran-takesato/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -14680,7 +15182,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/dstation-k/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.21,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/dstation-k/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -15586,7 +16111,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/win/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.43,
+          "loanMedalsPer1000Yen": 184.16,
+          "exchangeMedalsPer100Yen": 18.42,
+          "exchangeMedalsPer1000Yen": 184.16,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/win/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -16066,7 +16614,30 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/gold-on-n-kawaguchi/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        },
+        {
+          "loanYenPerMedal": 5.49,
+          "loanMedalsPer1000Yen": 182.15,
+          "exchangeMedalsPer100Yen": 18.21,
+          "exchangeMedalsPer1000Yen": 182.15,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/gold-on-n-kawaguchi/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,
@@ -16466,7 +17037,19 @@
     "aliases": [],
     "active": true,
     "slotExchange": {
-      "rates": [],
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 4.6,
+          "exchangeMedalsPer1000Yen": 46.02,
+          "source": "みんパチ公開参考値（未現地確認）",
+          "sourceUrl": "https://minpachi.com/toho-kawagoe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+        }
+      ],
       "fallbackRule": "equivalent_to_selected_loan_rate",
       "defaultExchangeIsEquivalentWhenUnknown": true,
       "userOverrideAllowed": true,

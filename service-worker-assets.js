@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "cY3cZlUm",
+  "version": "qo/ArBI+",
   "assets": [
     {
       "hash": "sha256-mhnwBRxE77lBCy7h8ECfQ5pVBgh+NI/qZe7HaiNk9/s=",
@@ -194,7 +194,7 @@ self.assetsManifest = {
       "url": "data/machines.json"
     },
     {
-      "hash": "sha256-R7TM9xZq3t1GriVFtDy1FbZ8IzGRw2PPfnT1rtl5FYA=",
+      "hash": "sha256-lidX0WGvS8BETlny1Ka3mp5F5If7pOf6NjHTadEUbts=",
       "url": "data/shops.json"
     },
     {
