@@ -1,10 +1,10 @@
-(() => {
+﻿(() => {
     const DB_NAME = 'slottracker-db';
     // v7 adds updateSnapshots. Upgrades are add-only; existing user stores are never deleted.
     // IMPORTANT: never rename DB_NAME or delete/recreate stores during an app update.
     const DB_VERSION = 7;
     const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata', 'updateSnapshots'];
-    const APP_VERSION = '1.9.7';
+    const APP_VERSION = '1.9.12';
     let dbPromise;
 
     function openDb() {
@@ -143,6 +143,9 @@
 
     window.slotUi = {
         confirm: (message) => window.confirm(message),
+        scrollToTarget: (id) => document.getElementById(id)?.scrollIntoView({
+            behavior: 'auto', block: 'start'
+        }),
         scrollToDayDetail: () => document.getElementById('day-details')?.scrollIntoView({
             behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
             block: 'start'
