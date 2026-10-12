@@ -6093,5 +6093,3321 @@
       "needsReview": true,
       "note": "交換率の数値未確認。選択した貸出レートと同じ値を交換レートとして扱う（等価推定）。"
     }
+  },
+  {
+    "name": "パールショップともえ奥野谷店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-466c286cda25",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市奥野谷3295",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "Ｄ’stationＷＡＫＯ鹿島店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-99177",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市宮中6丁目5番27号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "99177",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "パールショップともえ７G・E・T鹿嶋店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-14026",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市宮中5丁目7-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "14026",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "アイランド筑西店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-39040",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市玉戸山ヶ島1005番1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "39040",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "パールショップともえ潮来店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-3ee438056370",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県潮来市潮来6103-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "パールショップともえ神栖店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-333e5eb8d2e9",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市神栖1-17-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "パールショップともえ７G・E・T鹿嶋２",
+    "prefecture": "茨城県",
+    "id": "shop-pw-b062950370ae",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市佐田120-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "パールショップともえ石岡店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-18841",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.7,
+          "loanMedalsPer1000Yen": 46.08,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/tomoe-ishioka/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 5,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/tomoe-ishioka/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県小美玉市栗又四ヶ2539-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "18841",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "Ｄ’station神栖店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-96930",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市居切680番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "96930",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "デルパラ1つくば南",
+    "prefecture": "茨城県",
+    "id": "shop-pw-82884",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市乙戸１１２９－１",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "82884",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "マルハン土浦店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-36493",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市神立町3743-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "36493",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "MAY BACH",
+    "prefecture": "茨城県",
+    "id": "shop-pw-13438",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市森山町5-10-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "13438",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイト鹿嶋",
+    "prefecture": "茨城県",
+    "id": "shop-pw-36379",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市根三田1223",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "36379",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ALIVE東海南店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-60576",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市向山字保登内1273-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "60576",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイトスロットステージ土浦",
+    "prefecture": "茨城県",
+    "id": "shop-pw-71420",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市中貫1415",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "71420",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ガイアひたちなか店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-44129",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市大字田彦字二本松1600番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "44129",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイト神栖",
+    "prefecture": "茨城県",
+    "id": "shop-pw-27932",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市神栖2-4998-11",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "27932",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイトつくば",
+    "prefecture": "茨城県",
+    "id": "shop-pw-60260",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市上横場262-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "60260",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "キコーナ水戸駅南店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-30173",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.27,
+          "loanMedalsPer1000Yen": 47.01,
+          "exchangeMedalsPer100Yen": 5.2,
+          "exchangeMedalsPer1000Yen": 52.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/kicona-mitoe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 5,
+          "loanMedalsPer1000Yen": 200.0,
+          "exchangeMedalsPer100Yen": 22,
+          "exchangeMedalsPer1000Yen": 220.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/kicona-mitoe/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県水戸市城南1-4-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "30173",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "東海ＤＯＳ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-63ca0494ff1e",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市高野754",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ダイエー日立店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-35871",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市川尻町3丁目25番2号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "35871",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "東海UNU",
+    "prefecture": "茨城県",
+    "id": "shop-pw-13659",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市三杉町1-7-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "13659",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "マルハン石岡店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-12639",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県石岡市八軒台10番地10号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "12639",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "キコーナ 中根店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-11903",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市中根885-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "11903",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "満月 岩瀬店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-25089",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県桜川市御領1-55",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "25089",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイト平塚",
+    "prefecture": "茨城県",
+    "id": "shop-pw-36577",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市要299-10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "36577",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ジュピター707土浦店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-86819",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市佐野子字向谷原1169-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "86819",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ジュピター千代田店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-91701",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県かすみがうら市下稲吉字逆西2633番地176",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "91701",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ガイア高萩安良川店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-64956",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県高萩市安良川428-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "64956",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイト水戸南",
+    "prefecture": "茨城県",
+    "id": "shop-pw-26652",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県東茨城郡茨城町長岡3481-516",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "26652",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "キコーナ日立駅前店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-56292",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市幸町1-9-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "56292",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "キコーナ石岡店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-13952",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県石岡市北府中3丁目8-23",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "13952",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ALIVE女化店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-56799",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県龍ヶ崎市若柴町字長山前2240-137",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "56799",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ガイア竜ヶ崎店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-18459",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県龍ヶ崎市馴馬町754",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "18459",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "マックス石岡",
+    "prefecture": "茨城県",
+    "id": "shop-pw-55041",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県石岡市八軒台3159番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "55041",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "マルハン古河店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-94321",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市茶屋新田字原山270‐2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "94321",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイト取手",
+    "prefecture": "茨城県",
+    "id": "shop-pw-57036",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県取手市谷中8",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "57036",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "キコーナ 勝田駅前店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-62014",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市勝田中央4-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "62014",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ALIVEひたちなか店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-23168",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市馬渡3900",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "23168",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "丸愛駅前店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-87130",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市宮町1-2-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "87130",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "７４７三和店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-96489",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市仁連1476-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "96489",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ミカド石岡店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-24011",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県石岡市北府中1-5-52",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "24011",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ガーデン取手",
+    "prefecture": "茨城県",
+    "id": "shop-pw-37058",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県取手市新町一丁目9番1号SEIYU取手駅前店2F",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "37058",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "グランキコーナひたちなか店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-34918",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市菅谷1574-8",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "34918",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "レイトスロットステージ筑西",
+    "prefecture": "茨城県",
+    "id": "shop-pw-84313",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市西谷貝800",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "84313",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "グランドレイト",
+    "prefecture": "茨城県",
+    "id": "shop-pw-89041",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市乙1011",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "89041",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "スロットPX女化店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-31717",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県牛久市女化町416番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "31717",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "ＧＲＡＮＤ ＳＥＰＩＡ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-81844",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県結城市新福寺三丁目1番地10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "81844",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "マルハンつくば店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-16027",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市上横場1269番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "16027",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "満月協和店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-17854",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市門井1472-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "17854",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+  },
+  {
+    "name": "M’sFactory エムズファクトリー",
+    "prefecture": "茨城県",
+    "id": "shop-pw-28676",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸大宮市泉1163",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "28676",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "キコーナ女化店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-14585",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県牛久市女化町4-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "14585",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラクひたち野うしく店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-38310",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県牛久市下根町字二本松754",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "38310",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラク結城小田林店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-63723",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県結城市大字小田林1719番の1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "63723",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラク 下館店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-40032",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市玉戸字山ヶ島1003-38",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "40032",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラク笠間店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-54654",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県笠間市旭町430番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "54654",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラク ひたちなか店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-62816",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市大字枝川1792-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "62816",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニラク常陸大宮店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-41245",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸大宮市宇留野3070番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "41245",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "レイト守谷",
+    "prefecture": "茨城県",
+    "id": "shop-pw-23481",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県守谷市百合ヶ丘一丁目2034-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "23481",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "パーラーフェニックス",
+    "prefecture": "茨城県",
+    "id": "shop-pw-60081",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市知手3420番地19",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "60081",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城江戸崎店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-76837",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県稲敷市江戸崎字西江戸崎甲4840番",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "76837",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城水戸東店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-24503",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市六反田町1229番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "24503",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城石岡店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-49512",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県石岡市東大橋3134番地8",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "49512",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城土浦店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-51907",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市真鍋一丁目４番１号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "51907",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム日立北店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-83739",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市東滑川町4丁目14番18号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "83739",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム高萩店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-11730",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県高萩市大字安良川字岩本878番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "11730",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城神栖店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-67045",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市神栖2丁目1番39号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "67045",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム友部店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-78440",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県笠間市旭町字旭崎601番地5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "78440",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ＰＸ鉾田店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-12006",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鉾田市鉾田1264-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "12006",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "デルジャン小美玉店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-57386",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県小美玉市栗又四ヶ2547番地7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "57386",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ALIVE土浦店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-5fc17a4c1b24",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市下高津2丁目14-17",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ＰＸ牛久店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-60272",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県牛久市猪子町859-5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "60272",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "キコーナ 那珂店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-48533",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市菅谷647-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "48533",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "レイト荒川沖",
+    "prefecture": "茨城県",
+    "id": "shop-pw-12650",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/reito-arakawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載ページの店舗名は『麗都ARAKAWAOKI』。P-WORLD住所と照合。"
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/reito-arakawa/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載ページの店舗名は『麗都ARAKAWAOKI』。P-WORLD住所と照合。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県土浦市右籾1641-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "12650",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "百万弗 江戸崎店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-27512",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県稲敷市佐倉3230-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "27512",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ジャンジャンデルノザウルス取手",
+    "prefecture": "茨城県",
+    "id": "shop-pw-35147",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県取手市清水533-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "35147",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム岩間店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-77060",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県笠間市押辺字上原2709番地116",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "77060",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム鹿嶋店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-98364",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市宮下四丁目6番地5",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "98364",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "マルハン阿見店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-42793",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/twinparkmax/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県稲敷郡阿見町大字阿見4552番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "42793",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ルート５０",
+    "prefecture": "茨城県",
+    "id": "shop-pw-10723",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市河和田町字水久保350-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "10723",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "Ｐ－ＭＩＮＤS",
+    "prefecture": "茨城県",
+    "id": "shop-pw-63464",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市東多賀町2-10-15",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "63464",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "アポロ東町店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-64916",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県稲敷市三島字中蒲1028番2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "64916",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "パワースロットステージアポロ神立店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-60617",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市神立中央5-22-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "60617",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム茨城稲敷店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-40585",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県稲敷市西代1442番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "40585",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナムイオンタウン水戸南店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-90158",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県東茨城郡茨城町大字長岡字新田3486番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "90158",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム常陸大宮店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-56501",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸大宮市宇留野3144番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "56501",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム那珂町店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-16533",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市菅谷1584番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "16533",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム下館店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-96328",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市茂田字新山1722番地11",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "96328",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ＰＸつくば桜店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-36198",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市中根846番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "36198",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "レイト水海道",
+    "prefecture": "茨城県",
+    "id": "shop-pw-33993",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常総市新井木町37-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "33993",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "Ｐ－ＳＱＵＡＲＥ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-23606",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市鮎川町1-2-48",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "23606",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "スロパラＧＩＧＡ下妻店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-6c32c8fdfacc",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県下妻市小島字蔵王141-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "スロットマシンパラダイスGIGA三和店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-51dd002513d8",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市尾崎2955-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "スロットマシンパラダイスＧＩＧＡ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-59266",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市見川町2131-251",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "59266",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム北茨城店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-54359",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県北茨城市中郷町上桜井字柳町2170番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "54359",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム岩瀬店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-83447",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県桜川市上城字六反田667番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "83447",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム下妻店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-67496",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/dynam-shimotsuma/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 6.25,
+          "loanMedalsPer1000Yen": 160.0,
+          "exchangeMedalsPer100Yen": 18,
+          "exchangeMedalsPer1000Yen": 180.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/dynam-shimotsuma/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県下妻市横根字八合田505番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "67496",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ダイナム新治店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-64004",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市下坂田1699番地4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "64004",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "ニューアポロ土浦店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-56522",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市神立中央5-6-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "56522",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "マルハン古河北店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-87160",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市西牛谷字田向497-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "87160",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+  },
+  {
+    "name": "パーラールーキー大宮店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-13286",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸大宮市泉445-11",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "13286",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ALIVE常陸太田店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-a7a8ee3913b6",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸太田市馬場町70-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ダイナム茨城古河東店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-82866",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県古河市西牛谷391番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "82866",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ジャンジャンデルノザウルス",
+    "prefecture": "茨城県",
+    "id": "shop-pw-12258",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市西平塚浦山219-39",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "12258",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "マルハン筑西店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-54948",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県筑西市市野辺229番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "54948",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "マルハンメガシティ水戸赤塚",
+    "prefecture": "茨城県",
+    "id": "shop-pw-30157",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/maruhan-akatsuka/?tab_open=2",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。公式交換率ではなく第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県水戸市赤塚2-2029-164",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "30157",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ニラク常陸多賀店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-13121",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市東金沢町1丁目13番31号",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "13121",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "マルハン水戸けやき台店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-63724",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市元吉田町１９４４－４９",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "63724",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "クラブルーキー那珂店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-5b8730abe01a",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市菅谷字寄居1576-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ALIVE竜ヶ崎店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-97591",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県龍ヶ崎市貝原塚町中島3066",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "97591",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＤＩＳＨ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-86984",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県猿島郡境町777-4",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "86984",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "パチンコ大学",
+    "prefecture": "茨城県",
+    "id": "shop-pw-17432",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県久慈郡大子町池田1280",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "17432",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＧＩＧＡリバーシティ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-3e49bdf63291",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市枝川橋の花208-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "パーラージュピター石下店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-2d2e490296a6",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常総市篠山字浦山234番地-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチスロットクラブ八千代",
+    "prefecture": "茨城県",
+    "id": "shop-pw-4877986d730d",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県結城郡八千代町粕礼287-10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "パチンコ西友境店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-9003e5d304b3",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県猿島郡境町長井戸182-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "MGM水戸北店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-65b9e9fd6d04",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市中河内町前田924番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ勝田店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-efb01e1d6901",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市高場2263",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "G－ONE 那珂店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-ebabe32c4481",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂市後台2120-7",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ロイヤル神栖店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-e1bdff5ebab3",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県神栖市知手2927-28",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "MGM境店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-ce23afcb25a1",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県猿島郡境町1327番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "MGM水戸店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-df1eef6f565a",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市小吹町字新山2590-2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＭＧＭ友部店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-af08957e2f09",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/mgm友部店/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 20,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/mgm友部店/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 2.2,
+          "loanMedalsPer1000Yen": 454.55,
+          "exchangeMedalsPer100Yen": 50,
+          "exchangeMedalsPer1000Yen": 500.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/mgm友部店/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県笠間市湯崎字東原1243",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＭＧＭ下妻店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-908a1499ef56",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県下妻市古沢531-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＭＧＭ東海店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-12064cc1e7cd",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂郡東海村大字舟石川字往還西868番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "オーパみらい平店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-e6c57c5cf54b",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくばみらい市紫峰ヶ丘1-2-14",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＭＧＭ鉾田店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-4cf87cee8313",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鉾田市鉾田字荒神下371",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ニューオークラ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-a5dfa07ebad1",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市上郷599",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ渡里店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-65233d739eb3",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市渡里町字野木3379-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "Glace（グラッセ）",
+    "prefecture": "茨城県",
+    "id": "shop-pw-758faef34a5c",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市桜川町4-15-10",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "オークラ本店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-0aee3ce113c8",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市大曽根3780-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "マックス坂東",
+    "prefecture": "茨城県",
+    "id": "shop-pw-6d0f3da58d74",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県坂東市辺田1142番地2",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチつくば学園の森店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-ab70475a3387",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県つくば市学園の森3丁目49-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ河和田東店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-15372f8a6f84",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市河和田町中道480-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ藤代店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-71d579f1cac2",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県取手市小浮気582",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ河和田南店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-e0934640a0f5",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市河和田町3891-142",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ八千代店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-42035c20b898",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県結城郡八千代町菅谷2132-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "東大笠間店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-1fbdaf8e0c8b",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県笠間市来栖字峯ノ内1541",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチつくば本店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-032ed6cc1874",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.73,
+          "loanMedalsPer1000Yen": 46.02,
+          "exchangeMedalsPer100Yen": 5.1,
+          "exchangeMedalsPer1000Yen": 51.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/ビックマーチつくば本店/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 5.56,
+          "loanMedalsPer1000Yen": 179.86,
+          "exchangeMedalsPer100Yen": 20,
+          "exchangeMedalsPer1000Yen": 200.0,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/ビックマーチつくば本店/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県つくば市上横場道心塚2006-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "TOKO",
+    "prefecture": "茨城県",
+    "id": "shop-pw-f0a9a6bb3f5f",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県鹿嶋市平井東4丁目2番地45",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ日立店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-ac14e571d28b",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市東大沼町1丁目12-45",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチ水戸本店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-7b0d6dc9eaa5",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市けやき台3-15",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ロイヤル波崎店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-072264763b20",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [
+        {
+          "loanYenPerMedal": 21.74,
+          "loanMedalsPer1000Yen": 46.0,
+          "exchangeMedalsPer100Yen": 5.06,
+          "exchangeMedalsPer1000Yen": 50.6,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/royal-hasaki/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        },
+        {
+          "loanYenPerMedal": 5.55,
+          "loanMedalsPer1000Yen": 180.18,
+          "exchangeMedalsPer100Yen": 19.82,
+          "exchangeMedalsPer1000Yen": 198.2,
+          "source": "みんパチ（未現地確認の参考値）",
+          "sourceUrl": "https://minpachi.com/royal-hasaki/",
+          "verifiedAt": "2026-10-12",
+          "estimated": true,
+          "note": "店頭確認前の公開参考値。個人設定優先。第三者掲載値。"
+        }
+      ],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率は第三者掲載の参考値。変更の可能性があるため現地確認が必要。"
+    },
+    "address": "茨城県神栖市波崎6496",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ニューデルダス",
+    "prefecture": "茨城県",
+    "id": "shop-pw-ee049aa1db10",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県稲敷市角崎字南下町1659",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "MGM守谷ふれあい通り店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-14afc2e89df8",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県守谷市鈴塚84番地1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ＭＧＭ日立店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-aa7929ecd2df",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県日立市東滑川町4-1938",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "ビックマーチひたちなか店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-bc405849fdc0",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市田彦995",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "MGM神立店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-41493057d7ec",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県土浦市神立中央5-17-30",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "パチンコテキサス",
+    "prefecture": "茨城県",
+    "id": "shop-pw-9489ba10e17e",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県久慈郡大子町池田1593-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "スロットヒルズ",
+    "prefecture": "茨城県",
+    "id": "shop-pw-aa85720dc832",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県ひたちなか市田彦416-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+  },
+  {
+    "name": "SEiＹＵ水海道店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-c0cd804dd341",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常総市水海道宝町1576-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
+  },
+  {
+    "name": "ジーエックス常陸大宮",
+    "prefecture": "茨城県",
+    "id": "shop-pw-5cec0bf48971",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県常陸大宮市若林818-1",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
+  },
+  {
+    "name": "ＺＯＮＥＧＯ東海店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-d631fbe7c56f",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県那珂郡東海村大字須和間1203-6",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
+  },
+  {
+    "name": "パーラーファンタジー渡里店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-e5b980904816",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県水戸市渡里町4035-3",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
+  },
+  {
+    "name": "ＭＧＭ玉造店",
+    "prefecture": "茨城県",
+    "id": "shop-pw-d87231bbb4cd",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県行方市玉造甲1035番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
+  },
+  {
+    "name": "PARLOR JUMBO 高萩",
+    "prefecture": "茨城県",
+    "id": "shop-pw-979c57bc78b0",
+    "aliases": [],
+    "active": true,
+    "slotExchange": {
+      "rates": [],
+      "fallbackRule": "equivalent_to_selected_loan_rate",
+      "defaultExchangeIsEquivalentWhenUnknown": true,
+      "userOverrideAllowed": true,
+      "needsReview": true,
+      "note": "交換率未確認。等価換算は仮計算であり実際の交換率ではありません。"
+    },
+    "address": "茨城県高萩市大字赤浜字落ヶ沢1270番地",
+    "addressSource": "P-WORLD",
+    "addressVerifiedAt": "2026-10-12",
+    "pworldHallNumber": "",
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=4"
   }
 ]
