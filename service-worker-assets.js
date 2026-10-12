@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "QU4oZX5d",
+  "version": "cY3cZlUm",
   "assets": [
     {
       "hash": "sha256-mhnwBRxE77lBCy7h8ECfQ5pVBgh+NI/qZe7HaiNk9/s=",
@@ -194,7 +194,7 @@ self.assetsManifest = {
       "url": "data/machines.json"
     },
     {
-      "hash": "sha256-bn9oXY9fCQrzNBurWbLxYI60qbWS/WH2d6Ha6e7uHc4=",
+      "hash": "sha256-R7TM9xZq3t1GriVFtDy1FbZ8IzGRw2PPfnT1rtl5FYA=",
       "url": "data/shops.json"
     },
     {
