@@ -17,25 +17,5 @@
                       "sizes":  "512x512"
                   }
               ],
-    "shortcuts":  [
-                      {
-                          "name":  "入店する",
-                          "short_name":  "入店",
-                          "description":  "店舗の選択画面を開く",
-                          "url":  "./?quick=entry"
-                      },
-                      {
-                          "name":  "台を選択",
-                          "short_name":  "台選択",
-                          "description":  "稼働中の店舗で台を選ぶ",
-                          "url":  "./?quick=play"
-                      },
-                      {
-                          "name":  "退店する",
-                          "short_name":  "退店",
-                          "description":  "退店操作画面を開く",
-                          "url":  "./?quick=exit"
-                      }
-                  ],
     "scope":  "/slot-tracker.github.io/"
 }

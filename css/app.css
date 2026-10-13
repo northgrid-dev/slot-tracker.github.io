@@ -330,10 +330,4 @@ button:focus-visible{
 .cumulative-axis-labels{display:flex;justify-content:space-between;font-size:11px;color:#6b7280;padding:6px 5px 0 66px}
 @media(max-width:360px){.calendar-profit-item{padding:9px}.calendar-profit-item span{font-size:10px}}
 
-/* iPhone Shortcuts: always provide the same actions inside the existing PWA storage. */
-.shortcut-panel h2{margin:0;font-size:16px}
-.shortcut-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:10px}
-.shortcut-actions button{min-height:48px;min-width:0;padding:9px 5px}
-.shortcut-actions button:disabled{opacity:.42;cursor:not-allowed}
-.shortcut-hint{margin:9px 0 0}
 #quick-entry,#quick-play,#quick-exit,#quick-active-play{scroll-margin-top:85px}
