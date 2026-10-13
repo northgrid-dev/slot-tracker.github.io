@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#111827">
+<title>SlotTracker クイック操作</title>
+<style>
+*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN",sans-serif;margin:0;background:#f4f6f8;color:#111827}main{max-width:480px;margin:10vh auto;padding:22px}section{background:#fff;border-radius:18px;padding:22px;border:1px solid #e5e7eb}h1{font-size:23px;margin:0 0 12px}p{line-height:1.7}.detail{color:#586172;font-size:14px}.action{display:block;text-align:center;width:100%;padding:14px;margin:14px 0;border-radius:12px;background:#111827;color:#fff;text-decoration:none;font-weight:700}.outline{background:#fff;color:#111827;border:1px solid #bbc3cd}.small{font-size:12px;color:#586172}.alert{border-left:4px solid #be123c;padding-left:12px}
+</style>
+<script>
+// This file intentionally does not load appDb.js or Blazor. Safari must NEVER write records.
+(function(){
+    'use strict';
+    const choice = new URLSearchParams(location.search).get('quick');
+    const action = ['entry','play','exit'].includes(choice) ? choice : '';
+    const standalone = navigator.standalone === true || (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+    if (standalone && action) {
+        location.replace(new URL('./?quick=' + encodeURIComponent(action), document.baseURI).href);
+        return;
+    }
+    document.addEventListener('DOMContentLoaded', function(){
+        const labels = {entry:'入店',play:'台選択',exit:'退店'};
+        document.getElementById('action').textContent = action ? labels[action] : 'クイック操作';
+        const root = new URL('./', document.baseURI);
+        const webapp = 'webapp://' + root.host + root.pathname + (action ? '?quick=' + action : '');
+        document.getElementById('try-webapp').href = webapp;
+        document.getElementById('try-webapp').textContent = 'インストール済みのSlotTrackerを開く（試験機能）';
+    });
+})();
+</script>
+</head>
+<body><main><section>
+<h1>SlotTracker・<span id="action">クイック操作</span></h1>
+<p class="alert"><strong>Safariでは収支記録を操作しません。</strong></p>
+<p>iPhoneのホーム画面にインストールされたSlotTrackerとは、Safariの履歴保存領域が別になる場合があります。データの二重登録を防ぐため、この画面では入店・台選択・退店を実行しません。</p>
+<a id="try-webapp" class="action" href="#">インストール済みアプリを開く</a>
+<p class="small">この起動方法はAppleの公式保証がありません。別のアプリが開く、何も起きない、目的の画面に移らない場合があります。</p>
+<p>うまく開けない場合は、iPhoneホーム画面の<strong>SlotTrackerアイコン</strong>をタップしてください。最初の画面に「クイック操作」の入店・台選択・退店ボタンがあります。</p>
+<p class="detail">既存PWAの削除・再インストールはしないでください。実行前にデータタブからJSONバックアップを取得してください。</p>
+</section></main></body></html>

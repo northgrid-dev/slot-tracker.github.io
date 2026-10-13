@@ -1,4 +1,4 @@
-/* Manifest version: p2UJgUqR */
+/* Manifest version: YwAy7bc+ */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'slottracker-cache-';
@@ -30,7 +30,10 @@ async function onFetch(event) {
     if (event.request.method !== 'GET') return fetch(event.request);
     const isNavigation = event.request.mode === 'navigate';
     const request = isNavigation ? new Request(new URL('index.html', self.registration.scope).href) : event.request;
+    // Safari must receive the static handoff page, not a second IndexedDB-backed SPA.
+    const isShortcut = isNavigation && new URL(event.request.url).pathname.endsWith('/shortcut.html');
+    const cacheTarget = isShortcut ? new Request(new URL('shortcut.html', self.registration.scope).href) : request;
     const cache = await caches.open(cacheName);
-    const cachedResponse = await cache.match(request);
+    const cachedResponse = await cache.match(cacheTarget);
     return cachedResponse || fetch(event.request);
 }

@@ -4,7 +4,7 @@
     // IMPORTANT: never rename DB_NAME or delete/recreate stores during an app update.
     const DB_VERSION = 7;
     const STORES = ['visits', 'plays', 'exchanges', 'shopSettings', 'favorites', 'recentSelections', 'storedMedalTransactions', 'appLogs', 'appMetadata', 'updateSnapshots'];
-    const APP_VERSION = '1.9.12';
+    const APP_VERSION = '1.9.13';
     let dbPromise;
 
     function openDb() {
