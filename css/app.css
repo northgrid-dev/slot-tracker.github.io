@@ -331,3 +331,30 @@ button:focus-visible{
 @media(max-width:360px){.calendar-profit-item{padding:9px}.calendar-profit-item span{font-size:10px}}
 
 #quick-entry,#quick-play,#quick-exit,#quick-active-play{scroll-margin-top:85px}
+
+/* v1.9.16: Save confirmation dialog (iPhone PWA / desktop) */
+.save-notification-overlay{
+    position:fixed;
+    inset:0;
+    z-index:1000;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:max(16px,env(safe-area-inset-top)) max(16px,env(safe-area-inset-right)) max(16px,env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));
+    background:rgba(17,24,39,.55);
+}
+.save-notification-dialog{
+    width:min(420px,100%);
+    max-height:85vh;
+    overflow-y:auto;
+    background:#fff;
+    border-radius:18px;
+    box-shadow:0 20px 64px rgba(0,0,0,.23);
+    padding:24px 22px;
+    color:#111827;
+    text-align:center;
+}
+.save-notification-dialog h2{margin:0 0 12px;font-size:20px;font-weight:800}
+.save-notification-dialog p{margin:0 0 22px;font-size:16px;line-height:1.65;white-space:pre-wrap;overflow-wrap:anywhere}
+.save-notification-ok{min-width:130px;min-height:48px;font-size:16px}
+.save-notification-ok:focus-visible{outline:2px solid #111827;outline-offset:3px}

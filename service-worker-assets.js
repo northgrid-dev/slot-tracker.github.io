@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "6q4dug6h",
+  "version": "HMTl7moP",
   "assets": [
     {
       "hash": "sha256-Hh7ls4d6RwUSNd8gyGerO/HSxQu9xHRCj1qeYOwcNfM=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.7mu582bef3.wasm"
     },
     {
-      "hash": "sha256-dNqFUYb/salmQMerYygt1QPMiVqIHCTZWCdBRf0mK/s=",
-      "url": "_framework/Microsoft.AspNetCore.Components.kszp5dew27.wasm"
+      "hash": "sha256-GppdMD0iXZgWgmUCliWLE73rqgmquyHTWGUD//WS1so=",
+      "url": "_framework/Microsoft.AspNetCore.Components.ezyorixdyf.wasm"
     },
     {
       "hash": "sha256-I1V6RT2jU36RMO/udOCdtpwqRuricdlZ0IRsQvGrIKQ=",
@@ -58,8 +58,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wdufxhpzaj.wasm"
     },
     {
-      "hash": "sha256-S+tQoaRQMnKls/tFAvJ+HT+Vu9LHKiAqVYif9NdGUoo=",
-      "url": "_framework/SlotTracker.Pwa.5wv1dw109t.wasm"
+      "hash": "sha256-j0HKW2CDU5awb/am9b1MitkUERkDW8BIdOl2f0kE/uE=",
+      "url": "_framework/SlotTracker.Pwa.pihfcjo2ng.wasm"
     },
     {
       "hash": "sha256-SNS2HcPIFXy2caQuEvKr/9oe4YUpa91H7galVLbV/LA=",
@@ -154,7 +154,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-PoqMP4fZ7HDGiQD8zjq1u6e8fCk4ISXay8g9fuW2qjo=",
+      "hash": "sha256-cm+n1PdxTwoXTMRyosaoSv2D3ds8YGkC4SzbS411QJ8=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -182,7 +182,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-y1gJD7AHpbhYzsNRaw0DM2q1i1oVE4nxC7w+BQ7qs4w=",
+      "hash": "sha256-DqCMXQWiNFDS+jQ1jx68hkCaFxXku3DnPrgF/ne0b/s=",
       "url": "css/app.css"
     },
     {
